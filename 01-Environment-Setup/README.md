@@ -29,6 +29,17 @@ Follow production best practices
 
 Screenshots
 ## VMware Hardware Configuration
-
+Shows allocated RAM, CPU, storage disks, and NAT network configuration in VMware.
 ![VM Hardware](../Screenshots/01-vm-hardware-config.png)
 
+## Windows Server Version
+Confirms Windows Server 2016 Datacenter installation and build version.
+![Windows Version](../Screenshots/02-windows-version.png)
+
+## Hostname & IP Configuration
+Validates server name (SQL01) and confirms IPv4 address, subnet mask, and default gateway.
+![Hostname & IP](../Screenshots/03-hostname-ipconfig.png)
+
+## Disk Layout
+Displays OS disk and dedicated SQL data/log disk configuration using Disk Management.
+![Disk Layout](../Screenshots/04-disk-layout.png)
