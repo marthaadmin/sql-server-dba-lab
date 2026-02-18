@@ -59,3 +59,4 @@ Installation completed successfully with product updates applied.
 Outcome
 
 SQL Server 2016 successfully installed as the default instance on server SQL01.
+
