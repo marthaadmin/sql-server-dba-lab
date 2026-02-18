@@ -5,9 +5,6 @@ Install SQL Server 2016 (Evaluation Edition) on Windows Server 2016 using best p
 
 Installation Steps
 1️⃣ Launch Installation Center
-
-Mounted the SQL Server 2016 ISO and executed setup.exe.
-
 2️⃣ New Stand-Alone Installation
 
 Selected:
