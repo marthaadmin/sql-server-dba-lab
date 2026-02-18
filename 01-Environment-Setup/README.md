@@ -28,10 +28,7 @@ Simplify backup and recovery
 Follow production best practices
 
 Screenshots
-VMware Configuration
+## VMware Hardware Configuration
 
-Windows Version
+![VM Hardware](../Screenshots/01-vm-hardware-config.png)
 
-Server Name
-
-IP Configuration
