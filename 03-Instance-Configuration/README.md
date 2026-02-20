@@ -134,13 +134,12 @@ The SQL Server 2016 instance has been:
 * Enabled for network connectivity
 
 The environment is now production-ready from an instance configuration perspective.
+![SSMS Connected](../Screenshots/15-ssms-connected.png)
 
-../Screenshots/15-ssms-connected.png
+![SQL Version](../Screenshots/16-sql-version-query.png)
 
-../Screenshots/16-sql-version-query.png
+![Max Memory](../Screenshots/17-max-memory-configuration.png)
 
-../Screenshots/17-max-memory-configuration.png
+![TempDB Verification](../Screenshots/18-tempdb-file-verification.png)
 
-../Screenshots/18-tempdb-file-verification.png
-
-../Screenshots/19-tcpip-enabled.png
+![TCP Enabled](../Screenshots/19-tcpip-enabled.png)
