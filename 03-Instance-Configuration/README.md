@@ -135,4 +135,12 @@ The SQL Server 2016 instance has been:
 
 The environment is now production-ready from an instance configuration perspective.
 
+../Screenshots/15-ssms-connected.png
 
+../Screenshots/16-sql-version-query.png
+
+../Screenshots/17-max-memory-configuration.png
+
+../Screenshots/18-tempdb-file-verification.png
+
+../Screenshots/19-tcpip-enabled.png
